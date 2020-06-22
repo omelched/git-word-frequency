@@ -1,4 +1,4 @@
 from app.application import Application
 
 
-App = Application(None)
+App = Application('../cat_bot')
